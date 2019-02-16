@@ -1,0 +1,85 @@
+item_category_name,item_category_id,cate1,cate2,cate3
+PC - Гарнитуры/Наушники,0,PC,Headsets / Headphones,other
+Аксессуары - PS2,1,Accessories,PS2,other
+Аксессуары - PS3,2,Accessories,PS3,other
+Аксессуары - PS4,3,Accessories,PS4,other
+Аксессуары - PSP,4,Accessories,PSP,other
+Аксессуары - PSVita,5,Accessories,Playstation Vita,other
+Аксессуары - XBOX 360,6,Accessories,XBOX 360,other
+Аксессуары - XBOX ONE,7,Accessories,XBOX ONE,other
+Билеты (Цифра),8,Tickets,other,Numeral
+Доставка товара,9,Delivery of goods,other,other
+Игровые консоли - PS2,10,Game consoles,PS2,other
+Игровые консоли - PS3,11,Game consoles,PS3,other
+Игровые консоли - PS4,12,Game consoles,PS4,other
+Игровые консоли - PSP,13,Game consoles,PSP,other
+Игровые консоли - PSVita,14,Game consoles,Playstation Vita,other
+Игровые консоли - XBOX 360,15,Game consoles,XBOX 360,other
+Игровые консоли - XBOX ONE,16,Game consoles,XBOX ONE,other
+Игровые консоли - Прочие,17,Game consoles,Other,other
+Игры - PS2,18,Games,PS2,other
+Игры - PS3,19,Games,PS3,other
+Игры - PS4,20,Games,PS4,other
+Игры - PSP,21,Games,PSP,other
+Игры - PSVita,22,Games,Playstation Vita,other
+Игры - XBOX 360,23,Games,XBOX 360,other
+Игры - XBOX ONE,24,Games,XBOX ONE,other
+Игры - Аксессуары для игр,25,Games,Game accessories,other
+Игры Android - Цифра,26,Android games,Numeral,other
+Игры MAC - Цифра,27,MAC Games,Numeral,other
+Игры PC - Дополнительные издания,28,PC games,Additional editions,other
+Игры PC - Коллекционные издания,29,PC games,Collectible Editions,other
+Игры PC - Стандартные издания,30,PC games,Standard Editions,other
+Игры PC - Цифра,31,PC games,Numeral,other
+"Карты оплаты (Кино, Музыка, Игры)",32,Payment cards,other,other
+Карты оплаты - Live!,33,Payment cards,Live,other
+Карты оплаты - Live! (Цифра),34,Payment cards,Live,other
+Карты оплаты - PSN,35,Payment cards,PSN,other
+Карты оплаты - Windows (Цифра),36,Payment cards,Windows,Numeral
+Кино - Blu-Ray,37,Movie,Blu,other
+Кино - Blu-Ray 3D,38,Movie,Blu,other
+Кино - Blu-Ray 4K,39,Movie,Blu,other
+Кино - DVD,40,Movie,DVD,other
+Кино - Коллекционное,41,Movie,Collector's,other
+"Книги - Артбуки, энциклопедии",42,Books,Artbooks,other
+Книги - Аудиокниги,43,Books,Audiobooks,other
+Книги - Аудиокниги (Цифра),44,Books,Audiobooks,Numeral
+Книги - Аудиокниги 1С,45,Books,Audiobooks 1C,other
+Книги - Бизнес литература,46,Books,Business literature,other
+"Книги - Комиксы, манга",47,Books,Comics,other
+Книги - Компьютерная литература,48,Books,Computer literature,other
+Книги - Методические материалы 1С,49,Books,Methodical materials 1C,other
+Книги - Открытки,50,Books,Postcards,other
+Книги - Познавательная литература,51,Books,Cognitive literature,other
+Книги - Путеводители,52,Books,Guides,other
+Книги - Художественная литература,53,Books,Fiction,other
+Книги - Цифра,54,Books,Numeral,other
+Музыка - CD локального производства,55,Music,Local Production CD,other
+Музыка - CD фирменного производства,56,Music,CD branded production,other
+Музыка - MP3,57,Music,MP3,other
+Музыка - Винил,58,Music,Vinyl,other
+Музыка - Музыкальное видео,59,Music,Music video,other
+Музыка - Подарочные издания,60,Music,Gift Edition,other
+Подарки - Атрибутика,61,Presents,Attributes,other
+"Подарки - Гаджеты, роботы, спорт",62,Presents,Gadgets,other
+Подарки - Мягкие игрушки,63,Presents,Stuffed Toys,other
+Подарки - Настольные игры,64,Presents,Board games,other
+Подарки - Настольные игры (компактные),65,Presents,Board games,compact
+"Подарки - Открытки, наклейки",66,Presents,Postcards,other
+Подарки - Развитие,67,Presents,Development,other
+"Подарки - Сертификаты, услуги",68,Presents,Certificates,other
+Подарки - Сувениры,69,Presents,Souvenirs,other
+Подарки - Сувениры (в навеску),70,Presents,Souvenirs,in the sample
+"Подарки - Сумки, Альбомы, Коврики д/мыши",71,Presents,Bags,other
+Подарки - Фигурки,72,Presents,Figures,other
+Программы - 1С:Предприятие 8,73,Programs,1C,other
+Программы - MAC (Цифра),74,Programs,MAC,Numeral
+Программы - Для дома и офиса,75,Programs,For home and office,other
+Программы - Для дома и офиса (Цифра),76,Programs,For home and office,Numeral
+Программы - Обучающие,77,Programs,Educational,other
+Программы - Обучающие (Цифра),78,Programs,Educational,Numeral
+Служебные,79,Service,other,other
+Служебные - Билеты,80,Service,Tickets,other
+Чистые носители (шпиль),81,Clean media,other,spire
+Чистые носители (штучные),82,Clean media,other,piece
+Элементы питания,83,Batteries,other,other
